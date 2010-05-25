@@ -13,5 +13,9 @@ been assigned.
 When there is a winner, an exception should be thrown, declaring a
 given player the winner and the champion of the world.
 
+Tests should be written first!
+
 Tennis score link:
 http://en.wikipedia.org/wiki/Tennis#Scoring
+
+A sample first test has been submitted.
