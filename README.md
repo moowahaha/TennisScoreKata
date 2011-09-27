@@ -33,6 +33,7 @@ Ingredients
 * A laptop.
 * A projector.
 * A room far away from where people are trying to work quietly.
+* Beer.
 
 Method
 -------
