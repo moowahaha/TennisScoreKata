@@ -3,6 +3,8 @@ Tennis Score Kata
 
 Taken from: http://codingdojo.org/cgi-bin/wiki.pl?KataTennis
 
+This solution was done with 2 minute rotations.
+
 Goal
 -----
 
